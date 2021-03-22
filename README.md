@@ -70,3 +70,7 @@ ts, dıff and more
 # Blockquotes & Horizontal Rules
 --- 
 > "Şimdi yorulacaksın, sonra dinleneceksin" - Yusuf Tezcan
+
+
+
+[More about Markdown](https://www.markdownguide.org/basic-syntax)
