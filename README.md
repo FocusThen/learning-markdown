@@ -25,11 +25,6 @@ not italic - _italic 1_ *italic 2*
 not strikethrough - ~~striked 1~~
 
 
-# Blockquotes & Horizontal Rules
---- 
-> "Şimdi yorulacaksın, sonra dinleneceksin" - Yusuf Tezcan
-
-
 # Lists Ordered and Unordered
 1. List Item 1
 2. List Item 2
@@ -70,3 +65,8 @@ ts, dıff and more
 +  "main": "dist/index.js",
 }
 ```
+
+
+# Blockquotes & Horizontal Rules
+--- 
+> "Şimdi yorulacaksın, sonra dinleneceksin" - Yusuf Tezcan
